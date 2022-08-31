@@ -1,0 +1,1 @@
+#include "Kociol.h"
